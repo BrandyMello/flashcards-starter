@@ -5,3 +5,16 @@ Flashcards is a program utilizing the Mocha testing framework and the Chai asser
 
 ![FlashcardsGif](https://user-images.githubusercontent.com/46384968/60305276-4e554300-98f9-11e9-953e-f7a9dad5d1a9.gif)
 
+# Setup
+
+To play the game:
+
+Open your terminal.
+
+`git clone https://github.com/BrandyMello/flashcards-starter.git [what you want to name the repo]`
+
+Move into the directory you named above ([what you want to name the repo]) and 
+`npm install`
+then run:
+`node index.js`
+and play. To exit the game use `control c`.
