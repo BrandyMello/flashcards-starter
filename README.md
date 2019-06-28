@@ -15,6 +15,11 @@ Open your terminal.
 
 Move into the directory you named above ([what you want to name the repo]) and 
 `npm install`
+
 then run:
 `node index.js`
-and play. To exit the game use `control c`.
+
+
+and play. Have fun!
+
+To exit the game use `control c`.
